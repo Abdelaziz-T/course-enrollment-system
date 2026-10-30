@@ -1,0 +1,3 @@
+C101|Introduction to Programming|Dr. Ahmed|30|0
+C102|Database Fundamentals|Dr. Lina|25|0
+C103|Data Structures|Dr. Samir|35|1
